@@ -1,0 +1,9 @@
+﻿task,model,accuracy,precision,recall,f1,auc
+Cognitive Load Classification,SVM (RBF Kernel),0.763,0.758,0.772,0.765,0.824
+Cognitive Load Classification,Random Forest,0.802,0.795,0.814,0.804,0.861
+Cognitive Load Classification,XGBoost,0.818,0.812,0.826,0.819,0.873
+Adoption Behaviour Prediction,LSTM (Temporal Only),0.752,0.738,0.746,0.742,0.812
+Adoption Behaviour Prediction,Fully Connected (Static Only),0.683,0.672,0.665,0.668,0.723
+Adoption Behaviour Prediction,Multimodal LSTM-Fusion,0.785,0.776,0.808,0.792,0.847
+Cognitive Load Classification (Expert subgroup),XGBoost,0.842,0.838,0.847,0.842,0.891
+Cognitive Load Classification (Novice subgroup),XGBoost,0.796,0.789,0.803,0.796,0.856

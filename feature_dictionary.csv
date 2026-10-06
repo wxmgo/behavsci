@@ -1,0 +1,27 @@
+﻿category,feature,description,theoretical_significance
+Overall Processing,total_fixation_duration,总注视时长（ms）,整体认知负荷
+Overall Processing,total_fixation_count,注视点总个数,信息提取粒度
+Overall Processing,avg_fixation_duration,平均注视时长（ms）,加工深度
+Overall Processing,mean_pupil_diameter,平均瞳孔直径（mm）,整体唤醒水平
+Overall Processing,std_pupil_diameter,瞳孔直径标准差,认知负荷波动
+Attention Allocation,source_dwell_ratio,源文本停留比例（%）,源文本依赖
+Attention Allocation,target_dwell_ratio,目标文本停留比例（%）,译文加工投入
+Attention Allocation,ai_dwell_ratio,AI 建议区停留比例（%）,AI 辅助依赖
+Attention Allocation,rating_scale_dwell_ratio,评分量表停留比例（%）,决策投入
+Switching,source_target_switch_freq,源-目标切换频率（次/秒）,参照整合需求
+Switching,source_ai_switch_freq,源-AI 切换频率（次/秒）,AI 核验需求
+Switching,target_ai_switch_freq,目标-AI 切换频率（次/秒）,AI 采纳核验
+Temporal,first_arrival_ai,首次到达 AI 区域时间（ms）,AI 依赖速度
+Temporal,first_arrival_error,首次到达错误区域时间（ms）,错误敏感性
+Temporal,regression_count_ai,AI 区域回视次数,AI 建议复核
+Error Detection,total_error_dwell,错误区域总停留时间（ms）,错误加工投入
+Error Detection,semantic_error_dwell,语义错误区域停留时间（ms）,语义错误敏感性
+Error Detection,syntactic_error_dwell,句法错误区域停留时间（ms）,句法错误敏感性
+Error Detection,pragmatic_error_dwell,语用错误区域停留时间（ms）,语用错误敏感性
+Error Detection,time_first_semantic_error,首次注视语义错误时间（ms）,语义错误识别速度
+Error Detection,time_first_syntactic_error,首次注视句法错误时间（ms）,句法错误识别速度
+Error Detection,time_first_pragmatic_error,首次注视语用错误时间（ms）,语用错误识别速度
+Adoption-Related,pre_decision_ai_dwell,决策前 AI 区域注视时长（ms）,采纳前加工
+Adoption-Related,post_adoption_source_regression,采纳后源文本回视次数,采纳后核验
+Adoption-Related,fixation_overlap_ai_annotation,与 AI 标注的注视重叠率（%）,AI 标注关注
+Adoption-Related,pre_decision_hotspot,决策前注视热点坐标,决策焦点

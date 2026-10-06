@@ -1,0 +1,31 @@
+﻿participant_id,group,age,gender,role,years_translation_experience,years_assessment_experience,native_language,english_proficiency,calibration_error_deg
+E01,Expert,30,Male,Professional translator,14.3,7.4,Chinese,TEM-8,0.175
+E02,Expert,36,Female,University translation instructor,15.4,11.3,Chinese,TEM-8,0.226
+E03,Expert,44,Female,University translation instructor,16.9,5.0,Chinese,TEM-8,0.312
+E04,Expert,37,Female,University translation instructor,19.9,5.0,Chinese,TEM-8,0.443
+E05,Expert,51,Male,University translation instructor,10.2,11.6,Chinese,TEM-8,0.456
+E06,Expert,40,Male,University translation instructor,14.8,9.8,Chinese,TEM-8,0.403
+E07,Expert,44,Female,University translation instructor,15.6,5.5,Chinese,TEM-8,0.249
+E08,Expert,47,Female,University translation instructor,6.0,11.1,Chinese,TEM-8,0.475
+E09,Expert,49,Female,Professional translator,10.3,16.1,Chinese,TEM-8,0.259
+E10,Expert,51,Male,Professional translator,14.1,5.4,Chinese,TEM-8,0.36
+E11,Expert,43,Female,University translation instructor,13.0,9.6,Chinese,TEM-8,0.334
+E12,Expert,47,Female,Professional translator,9.4,12.4,Chinese,TEM-8,0.178
+E13,Expert,42,Male,University translation instructor,12.7,14.0,Chinese,TEM-8,0.432
+E14,Expert,39,Male,University translation instructor,20.5,15.0,Chinese,TEM-8,0.474
+E15,Expert,44,Female,Professional translator,19.3,15.1,Chinese,TEM-8,0.232
+N01,Novice,24,Female,MA student in translation,2.4,0.0,Chinese,TEM-8,0.292
+N02,Novice,22,Male,MA student in translation,0.7,0.0,Chinese,TEM-8,0.332
+N03,Novice,25,Female,MA student in translation,0.5,0.0,Chinese,TEM-8,0.229
+N04,Novice,25,Female,MA student in translation,1.2,0.0,Chinese,TEM-8,0.238
+N05,Novice,27,Female,MA student in translation,1.7,0.0,Chinese,TEM-8,0.153
+N06,Novice,26,Male,MA student in translation,0.6,0.0,Chinese,TEM-8,0.335
+N07,Novice,23,Female,MA student in translation,2.6,0.0,Chinese,TEM-8,0.32
+N08,Novice,27,Female,MA student in translation,2.0,0.0,Chinese,TEM-8,0.171
+N09,Novice,29,Male,MA student in translation,2.2,0.0,Chinese,TEM-8,0.272
+N10,Novice,24,Female,MA student in translation,2.1,0.0,Chinese,TEM-8,0.353
+N11,Novice,22,Female,MA student in translation,1.5,0.0,Chinese,TEM-8,0.28
+N12,Novice,27,Female,MA student in translation,2.0,0.0,Chinese,TEM-8,0.479
+N13,Novice,23,Female,MA student in translation,0.5,0.0,Chinese,TEM-8,0.172
+N14,Novice,27,Female,MA student in translation,1.7,0.0,Chinese,TEM-8,0.157
+N15,Novice,23,Male,MA student in translation,0.7,0.0,Chinese,TEM-8,0.216

@@ -1,0 +1,7 @@
+﻿roi_type,definition,analysis_purpose
+Source Text Area,左侧显示面板（源文本）,源文本依赖
+Target Text Area,中央显示面板（目标译文）,译文加工投入
+AI Advice Area,右侧显示面板（AI 建议）,AI 辅助依赖
+Rating Scale Area,屏幕底部（5 点量表）,决策过程
+Error Area,译文中注入错误的位置,错误检测敏感性
+AI Annotation Area,AI 建议中标注错误的位置,对 AI 标注的关注

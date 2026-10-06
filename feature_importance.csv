@@ -1,0 +1,11 @@
+﻿task,rank,feature,shap_value
+Cognitive Load Classification,1,Total Fixation Duration,0.182
+Cognitive Load Classification,2,Standard Deviation of Pupil Diameter,0.156
+Cognitive Load Classification,3,Source-Target Switching Frequency,0.138
+Cognitive Load Classification,4,AI Advice Area Dwell Time Ratio,0.112
+Cognitive Load Classification,5,Total Error Area Dwell Time,0.095
+Adoption Behaviour Prediction,1,Fixation Duration in AI Advice Area before Adoption,0.156
+Adoption Behaviour Prediction,2,First Arrival Time to AI Advice Area,0.142
+Adoption Behaviour Prediction,3,Regression Count of Source Text before Adoption,0.128
+Adoption Behaviour Prediction,4,Target-AI Switching Frequency,0.104
+Adoption Behaviour Prediction,5,Mean Pupil Diameter,0.091

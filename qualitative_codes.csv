@@ -1,0 +1,13 @@
+﻿group,theme,representative_statement,frequency
+Expert,Trust & Skepticism,先形成独立判断，再核对 AI 建议,5
+Expert,Trust & Skepticism,AI 过度改写时会拒绝其建议,4
+Expert,Source-Target Switching,译文读起来别扭或涉及术语/文化概念时才回看源文,5
+Expert,Source-Target Switching,AI 建议与直觉冲突时一定回看源文核验,4
+Expert,Error Identification Cues,语义错误一眼可见，语用错误需结合整体语境,5
+Expert,Error Identification Cues,句法错误若不影响理解则扣分较少,3
+Novice,Trust & Skepticism,AI 应该是对的，直接跟随其评分,5
+Novice,Trust & Skepticism,AI 标注了错误就认为一定有问题，不再细查源文,4
+Novice,Source-Target Switching,习惯逐句对照，觉得这样更安全,5
+Novice,Source-Target Switching,有时忘了源文内容，需要回看,4
+Novice,Error Identification Cues,句子很长或结构复杂就认为是句法错误,4
+Novice,Error Identification Cues,AI 标了错误就接受，不自己判断错误类型,3
